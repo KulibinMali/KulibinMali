@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @KulibinMali
+- 👀 I am interested in google services, database engineering and analytics, dashboards (Google Data Studio, Power Bi), Restful api, arduino projects and much more
+- 🌱 I am currently learning how to work with the API - to build correct queries. I also practice working with databases on a daily basis and improve their efficiency. I practice building dashboards and bringing the data to the required form
+- 📫 How to reach me: 
+- VK https://vk.com/antropov74
+- TG https://t.me/AlexAntropov
+- INST https://www.instagram.com/antropov_autodata
+- MAIL alexantropov74@gmail.com
